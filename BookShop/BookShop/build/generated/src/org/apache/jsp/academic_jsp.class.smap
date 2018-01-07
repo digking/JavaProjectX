@@ -1,0 +1,27 @@
+SMAP
+academic_jsp.java
+JSP
+*S JSP
+*F
++ 0 academic.jsp
+academic.jsp
++ 1 banner.jsp
+banner.jsp
++ 2 horizontal_menu.jsp
+horizontal_menu.jsp
+*L
+5,16:53
+5#1,21:69
+20#0,2:89
+5#2,40:91
+21#0,4:130
+25,12:135
+36,8:147
+44,3:156
+46,2:159
+48,5:161,3
+53:176,5
+54,4:181
+59,3:187
+61,24:190
+*E

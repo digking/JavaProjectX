@@ -1,0 +1,18 @@
+SMAP
+AdminWay_jsp.java
+JSP
+*S JSP
+*F
++ 0 AdminWay.jsp
+AdminWay.jsp
++ 1 banner.jsp
+banner.jsp
++ 2 horizontal_menu.jsp
+horizontal_menu.jsp
+*L
+5,13:50
+5#1,21:63
+17#0,2:83
+5#2,40:85
+18#0,22:124
+*E
